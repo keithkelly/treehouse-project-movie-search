@@ -190,6 +190,8 @@ button {
   float: left;
   height: 100%;
   margin-right: 2rem;
+  min-height: 350px;
+  min-width: 350px;
 }
 
 .movie-description {
