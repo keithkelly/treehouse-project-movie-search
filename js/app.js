@@ -56,7 +56,7 @@
 
     let html = `
       <ul id="movies" class="movie-list">
-        <li class="no-movies">
+        <li class="no-movies desc">
           <i class="material-icons icon-help">help_outline</i>No movies found that match: ${query}${yearMessage}.
         </li>
       </ul>

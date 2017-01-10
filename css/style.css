@@ -111,10 +111,6 @@ button {
   font-size: 1.25em;
 }
 
-.no-movies {
-  width: 100% !important;
-}
-
 .movie-list li {
   margin: 1.925em 0 0;
 }
